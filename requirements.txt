@@ -1,0 +1,10 @@
+bitsandbytes==0.45.0
+Flask==2.2.2
+langchain==0.3.12
+langchain_community==0.3.12
+langchain_experimental==0.3.3
+Pillow==11.0.0
+requests==2.32.3
+sentence_transformers==3.0.1
+torch==2.5.1
+transformers==4.47.0
